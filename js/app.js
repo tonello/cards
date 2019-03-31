@@ -64,7 +64,7 @@ $(document).ready(function(){
 		content += '<div class="card">';
 		content += '<div class="card-img-top">';
 		content += '<a href="' + link +'" target="_blank">';
-		content += '<img  src="' + img +'" width="100%" alt="">';
+		content += '<img src="' + img +'" width="100%" alt="" style="background: linear-gradient(-180deg, rgba(255,255,255,0.0) 65%, white 90%);">';
 
 		switch(operadora){
 
@@ -92,14 +92,10 @@ $(document).ready(function(){
 		content += '<div class="row">';
 		content += '<div class="col-8 col-md-8">';
 		content += '<div class="col-12 col-md-12 p-0">';
-
-		
-
 		content += '<h5 class="card-title-small">' + description.substring(12, 26) +'</h5>';
 		content += '</div>';
 		content += '<div class="col-12 col-md-12 p-0">';
 		content += '<h5 class="card-title-big">' + description.substring(26, description.length) +'</h5>';
-		
 		content += '</div>';
 		content += '</div>';
 		content += '<div class="col-4 col-md-4 pb-40" style="text-align:right; padding-right:10px;">';
@@ -149,6 +145,3 @@ $(document).ready(function(){
 	}
 
 });
-
-hljs.configure({tabReplace: '  '});
-hljs.initHighlightingOnLoad();
