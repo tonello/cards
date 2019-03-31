@@ -1,0 +1,52 @@
+{
+  "items" : [
+    {
+        "Image": "./images/CAPA-RIO.jpg",
+        "Url":"https://www.viajanet.com.br/busca/passagens/voos#/SAO/RIO/RT/01-11-2019/03-11-2019/-/-/-/1/0/0/-/-/BRL/-",
+        "Text":"Promoção de São Paulo para Rio de Janeiro",
+        "Operadora":"GOL"
+    },
+    {
+        "Image": "./images/CAPA-MANAUS.jpg",
+        "Url":"https://www.viajanet.com.br/busca/passagens/voos#/SAO/MAO/RT/12-04-2019/15-04-2019/-/-/-/1/0/0/-/-/BRL/-",
+        "Text":"Promoção de São Paulo para Manaus",
+        "Operadora":"LATAM"
+    },
+    {
+        "Image": "./images/CAPA-FLORIPA.jpg",
+        "Url":"https://www.viajanet.com.br/busca/passagens/voos#/SAO/FLN/RT/31-05-2019/10-06-2019/-/-/-/1/0/0/-/-/BRL/-",
+        "Text":"Promoção de São Paulo para Florianopolis",
+        "Operadora":"AZUL"
+    },
+    {
+        "Image": "./images/CAPA-PORTO.jpg",
+        "Url":"https://www.viajanet.com.br/busca/passagens/voos#/SAO/BPS/RT/01-09-2019/07-09-2019/-/-/-/1/0/0/-/-/BRL/-",
+        "Text":"Promoção de São Paulo para Porto Seguro",
+        "Operadora":"AVIANCA"
+    },
+    {
+        "Image": "./images/CAPA-RIO.jpg",
+        "Url":"https://www.viajanet.com.br/busca/passagens/voos#/SAO/RIO/RT/01-11-2019/03-11-2019/-/-/-/1/0/0/-/-/BRL/-",
+        "Text":"Promoção de São Paulo para Rio de Janeiro",
+        "Operadora":"LATAM"
+    },
+    {
+        "Image": "./images/CAPA-MANAUS.jpg",
+        "Url":"https://www.viajanet.com.br/busca/passagens/voos#/SAO/MAO/RT/12-04-2019/15-04-2019/-/-/-/1/0/0/-/-/BRL/-",
+        "Text":"Promoção de São Paulo para Manaus",
+        "Operadora":"AZUL"
+    },
+    {
+        "Image": "./images/CAPA-FLORIPA.jpg",
+        "Url":"https://www.viajanet.com.br/busca/passagens/voos#/SAO/FLN/RT/31-05-2019/10-06-2019/-/-/-/1/0/0/-/-/BRL/-",
+        "Text":"Promoção de São Paulo para Florianopolis",
+        "Operadora":"AVIANCA"
+    },
+    {
+        "Image": "./images/CAPA-PORTO.jpg",
+        "Url":"https://www.viajanet.com.br/busca/passagens/voos#/SAO/BPS/RT/01-09-2019/07-09-2019/-/-/-/1/0/0/-/-/BRL/-",
+        "Text":"Promoção de São Paulo para Porto Seguro",
+        "Operadora":"GOL"
+    }
+  ]
+}
