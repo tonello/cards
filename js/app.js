@@ -64,24 +64,24 @@ $(document).ready(function(){
 		content += '<div class="card">';
 		content += '<div class="card-img-top">';
 		content += '<a href="' + link +'" target="_blank">';
-		content += '<img src="' + img +'" width="100%" alt="" style="background: linear-gradient(-180deg, rgba(255,255,255,0.0) 65%, white 90%);">';
+		content += '<img src="' + img +'" width="100%">';
 
 		switch(operadora){
 
 			case 'LATAM':
-			content += '<div class="card-img-top-brands"><img class="card-img-top-brands-label" src="./images/LABEL-LATAM.png" alt=""></div>';
+			content += '<div class="card-img-top-brands"><img class="card-img-top-brands-label" src="./images/LABEL-LATAM.png"  style="background: linear-gradient(-180deg, rgba(255,255,255,0.0) 65%, white 90%);"></div>';
 			break;
 
 			case 'GOL':
-			content += '<div class="card-img-top-brands"><img class="card-img-top-brands-label" src="./images/LABEL-GOL.png" alt=""></div>';
+			content += '<div class="card-img-top-brands"><img class="card-img-top-brands-label" src="./images/LABEL-GOL.png"  style="background: linear-gradient(-180deg, rgba(255,255,255,0.0) 65%, white 90%);"></div>';
 			break;
 
 			case 'AVIANCA':
-			content += '<div class="card-img-top-brands"><img class="card-img-top-brands-label" src="./images/LABEL-AVIANCA.png" alt=""></div>';
+			content += '<div class="card-img-top-brands"><img class="card-img-top-brands-label" src="./images/LABEL-AVIANCA.png"  style="background: linear-gradient(-180deg, rgba(255,255,255,0.0) 65%, white 90%);"></div>';
 			break;
 
 			case 'AZUL':
-			content += '<div class="card-img-top-brands"><img class="card-img-top-brands-label" src="./images/LABEL-AZUL.png" alt=""></div>';
+			content += '<div class="card-img-top-brands"><img class="card-img-top-brands-label" src="./images/LABEL-AZUL.png"  style="background: linear-gradient(-180deg, rgba(255,255,255,0.0) 65%, white 90%);"></div>';
 			break;
 
 		}
